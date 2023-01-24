@@ -4,21 +4,15 @@
 E-commerce, is the largest sector of the electronics industry, generating an estimated $29 trillion in 2019. E-commerce platforms like Shopify and WooCommerce provide a suite of services to businesses of all sizes. Due to their prevalence, understanding the fundamental architecture of these platforms will benefit you as a full-stack web developer.
 
 ## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributions](#contributions)
+- [Built With](#built-with)
 - [Preview](#preview)
 - [License](#license)
     
-
-## Installation
-- 
-    
-## Usage
--  
-
-## Contributions
-
+## Built With
+    -Express.js
+    -Node.js
+    -MySQL
+    -dotenv
 
 ## Preview
 
