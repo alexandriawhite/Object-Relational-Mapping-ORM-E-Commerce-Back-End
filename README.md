@@ -17,13 +17,14 @@ E-commerce, is the largest sector of the electronics industry, generating an est
 ## 
 ### Find All
 [Find All.webm](https://user-images.githubusercontent.com/114960634/214207864-45e935a3-f91e-4e48-855e-10ccf3b91083.webm)
-
 ### Find One
 [Find One.webm](https://user-images.githubusercontent.com/114960634/214207879-769a95ca-6c27-4530-9b08-b33c145b2996.webm)
 ### Categories POST PUT and DELETE 
 [Categories.webm](https://user-images.githubusercontent.com/114960634/214210069-1d37c8a9-be22-44f3-b703-4a0934a2c7f3.webm)
 ### Product POST PUT and DELETE
 [Products.webm](https://user-images.githubusercontent.com/114960634/214211132-4c72a908-7404-4a13-bdbe-01e49d1ea311.webm)
+### Tags POST PUT and DELETE
+[Tags.webm](https://user-images.githubusercontent.com/114960634/214212377-cd35a92e-cbce-4548-9f0d-3837b47cd739.webm)
 
 
 ## License
